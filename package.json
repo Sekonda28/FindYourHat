@@ -6,6 +6,19 @@
   "author": "Codecademy",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "prompt-sync": "^4.1.7"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sekonda28/FindYourHat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sekonda28/FindYourHat/issues"
+  },
+  "homepage": "https://github.com/Sekonda28/FindYourHat#readme"
 }
